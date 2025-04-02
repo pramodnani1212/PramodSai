@@ -1,44 +1,31 @@
-## 👋 Hi, I'm Pramod Sai Talluri
-🚀 Software Development Engineer | Cloud & Distributed Systems Enthusiast
-📍 Location: St. Louis, MO, USA
-🎓 Education: Master of Science in Information Systems & Technology at University of Missouri, St. Louis (UMSL)
-💡 Tech Stack: Python, Java, C++, React, Spring Boot, AWS, MongoDB, MySQL, Kafka
+<p align="center"> <h1>Hi 👋, I'm Pramod Sai Talluri</h1> </p>
+I'm a passionate Software Development Engineer with experience in building scalable solutions, distributed systems, and algorithm design. Always eager to learn and innovate.
 
-##  About Me
-I am a passionate Software Engineer with experience in full-stack development, cloud computing, and distributed systems. My background includes building scalable applications, designing cloud-based architectures, and optimizing system performance.
+📍 Location: Saint Louis, MO, USA
+🎓 Education: Master's in Information Systems and Technology at the University of Missouri - St. Louis
+🌱 Currently Learning: Advanced cloud technologies, scalable system design, and DevOps best practices
 
-I have hands-on experience with microservices, containerization, CI/CD pipelines, and automation testing, and I love solving complex engineering challenges. Currently, I am exploring advanced cloud integrations, machine learning, and system design.
+🔍 I'm currently working on
+Enhancing my expertise in cloud-based architectures and backend development.
 
-##  Skills & Technologies
-Languages: Java, Python, C++, C#, SQL, R
-Web Development: React.js, Node.js, HTML, CSS, JavaScript, TypeScript
-Backend & Databases: Spring Boot, Express.js, MySQL, MongoDB, DynamoDB, Redis, Kafka
-Cloud & DevOps: AWS (EC2, S3, IAM, Lambda), Azure, Docker, Jenkins, Kubernetes, Git
-Testing & Automation: JUnit, Selenium, Mocha, Postman, CI/CD Pipelines
+Exploring automation and optimization techniques for software systems.
 
-##  What I'm Working On
-Enhancing my Cloud & DevOps expertise with real-world projects.
-Developing scalable backend microservices with Spring Boot & Node.js.
-Exploring Data Science & Machine Learning for AI-driven applications.
+💡 Ask me about
+Programming (Java, Python, C++, C#, R, SQL)
 
-##  Projects
-🔹 Stack Overflow Clone
-A highly scalable Q&A platform built with React, Node.js, Kafka, MongoDB, and Redis to handle 10k+ concurrent requests efficiently.
-🛠️ Tech Used: React.js, Node.js, Express.js, MySQL, MongoDB, Kafka, Redis, AWS EC2
+Web & Backend Development (Spring Boot, REST APIs, Node.js, React.js, Redux)
 
-🔹 Paddy Leaf Disease Analysis
-A deep learning-based system using hybrid algorithms to detect crop diseases at an early stage.
-🛠️ Tech Used: Python, Machine Learning, Deep Learning
+Cloud & DevOps (AWS, Azure, Docker, Kubernetes, Jenkins, GitHub, CI/CD)
 
-🔹 Educational Institution Web App
-A web-based solution for managing SQL operations on university databases, improving operational efficiency.
-🛠️ Tech Used: PHP, MySQL, AJAX, jQuery
+Databases (MySQL, MongoDB, DynamoDB, SQL Server)
 
-##  Connect With Me
-📧 Email: pramodsai55@gmail.com
-🔗 LinkedIn: Pramod Sai Talluri
-💻 GitHub: PramodSai55
+📬 How to reach me
+📧 Email
 
-##  Fun Fact
-I enjoy automating tasks, optimizing workflows, and experimenting with new cloud technologies. Also, I’m a foodie who loves trying out different cuisines! 😃
+🔗 LinkedIn
 
+⚡ Fun fact
+I enjoy automating workflows, solving complex algorithms, and contributing to open-source projects. Also, I'm a tech enthusiast who loves exploring the latest in AI and cloud computing! 😃
+
+🛠️ Languages and Tools:
+<p align="center"> <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"> <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react"> <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql"> <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws"> <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git"> <img src="https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins"> </p>
